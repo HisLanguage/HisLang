@@ -1,4 +1,4 @@
-**FORKED FROM HerLanguage/HerLang, USING MIT LICENSE**
+**FORKED FROM [HerLanguage/HerLang](GitHub.com/HerLanguage/HerLang), USING MIT LICENSE**
 
 ![HisLang](/assets/logo.png)
 # HisLang - A code language for he.
