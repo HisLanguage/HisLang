@@ -1,13 +1,15 @@
-![HerLang](/assets/logo.png)
-# HerLang - A code language for her.
+**FORKED FROM HerLanguage/HerLang, USING MIT LICENSE**
 
-Programming is not a male privilege, girls can also program well.
+![HisLang](/assets/logo.png)
+# HisLang - A code language for he.
+
+Programming is not a female privilege, boys can also program well.
 
 ## Demo
 
-```herlang
+```HisLang
 function you_can_do_this:
-    say "Hello! Her World!"
+    say "Hello! His World!"
     say "编程很美，也属于你！"
 end
 
@@ -19,14 +21,14 @@ end
 it outputs:
 
 ```
-Hello! Her World!
+Hello! His World!
 编程很美，也属于你！
 ```
 
 ## How to use
 
 ```
-Usage: hcp in.herc out.cpp
+Usage: hcp in.hisc out.cpp
 ```
 
 and then you can use `g++` to build an executable file.

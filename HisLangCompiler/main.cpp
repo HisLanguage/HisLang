@@ -9,7 +9,7 @@
 
 int main(int argc, char* argv[]) {
     if (argc != 3) {
-        std::cerr << "Usage: hcp in.herc out.cpp\n";
+        std::cerr << "Usage: hcp in.hisc out.cpp\n";
         return 1;
     }
 
