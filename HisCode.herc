@@ -1,6 +1,6 @@
 function you_can_do_this:
     say "Hello! His World!"
-    say "编程很美，也属于你！"
+    say "编程很帅，也属于你！"
 end
 
 start:

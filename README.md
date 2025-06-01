@@ -10,7 +10,7 @@ Programming is not a female privilege, boys can also program well.
 ```HisLang
 function you_can_do_this:
     say "Hello! His World!"
-    say "编程很美，也属于你！"
+    say "编程很帅，也属于你！"
 end
 
 start:
@@ -22,7 +22,7 @@ it outputs:
 
 ```
 Hello! His World!
-编程很美，也属于你！
+编程很帅，也属于你！
 ```
 
 ## How to use
